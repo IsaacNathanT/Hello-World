@@ -1,5 +1,3 @@
 # Hello-World
-A simple hello world website
+H! nice to meet ya! I'm Isaac. If you need me for anything, just send over an email!
 
-Hello everyone!
-In this edit I added this introduction message!
